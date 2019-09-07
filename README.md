@@ -1,14 +1,13 @@
-# prediktortogel
+# Sekilas tentang aplikasi ini
 Aplikasi Android untuk melihat data paito pasaran hongkong, singapore, sydney dan juga cambodia.
 
 ## Tampilan
 <img width="210" src="https://raw.githubusercontent.com/idsugardev/prediktortogel/master/01.png"/> <img width="210" src="https://raw.githubusercontent.com/idsugardev/prediktortogel/master/02.png"/> <img width="210" src="https://raw.githubusercontent.com/idsugardev/prediktortogel/master/03.png"/> <img width="210" src="https://raw.githubusercontent.com/idsugardev/prediktortogel/master/04.png"/>
 
 ## Spesifikasi
-Nama aplikasi: Prediktor Togel
-Versi: 1.0.0
-Compatible: > Android 5.0 
-(android dibawah versi 5 [lolipop], tidak kita jamin bisa menjalankan aplikasi ini]
+* Nama aplikasi: Prediktor Togel
+* Versi: 1.0.0
+* Compatible: > Android 5.0 (android dibawah versi 5 [lolipop],belum kita coba)
 
 ## Cara Download
 Silahkan klik [link ini](https://github.com/idsugardev/prediktortogel/raw/master/prediktortogel.apk)
