@@ -11,7 +11,7 @@ Compatible: > Android 5.0
 (android dibawah versi 5 [lolipop], tidak kita jamin bisa menjalankan aplikasi ini]
 
 ## Cara Download
-Silahkan klik [link ini](https://raw.githubusercontent.com/idsugardev/prediktortogel/master/prediktor.apk)
+Silahkan klik [link ini](https://github.com/idsugardev/prediktortogel/raw/master/prediktortogel.apk)
 
 ## Jaminan
 Aplikasi 100% di jamin tidak mengandung malware ataupun aplikasi berbahaya lainnya, silahkan gunakan aplikasi security Anda untuk meng-scan aplikasi ini kalau tidak percaya.
