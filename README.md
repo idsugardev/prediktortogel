@@ -32,5 +32,7 @@ __Pengguna Android:__
 
 ## Hasil analysis
 **Virus Total**
+![](https://raw.githubusercontent.com/idsugardev/prediktortogel/master/virustotal.png)
 
 **NVISO**
+![](https://raw.githubusercontent.com/idsugardev/prediktortogel/master/nviso.png)
