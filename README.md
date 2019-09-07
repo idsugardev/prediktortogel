@@ -33,15 +33,13 @@ __Pengguna Android:__
 3. Jika di blokir karena sumber tidak diketahui (source unknown), silahkan masuk ke bagian pengaturan dan hidupkan install dari sumber tidak diketahui.
 4. Jika di blokir **Play Protect**, pilih Install anyway.
 
-  Disarankan mematikan Play Protect ketika menginstall aplikasi ini.
-  &nbsp;
-  **Caranya:**
-  * Buka aplikasi Playstore, 
-  * Klik Hamburg Menu 
-  * Pilih Play Protect. 
-  * Kemudian, klik icon GEAR, dan geser toggle pada opsi "Scan device for security threats" agar mati.
-  &nbsp;
-  Link cara mematikan Play Protect bisa di baca di link ini: [How to disable play protect?](https://support.mobile-tracker-free.com/hc/en-us/articles/360005346953-How-to-disable-Google-Play-Protect-)
+__Disarankan mematikan Play Protect ketika menginstall aplikasi ini.__
+**Caranya:**
+* Buka aplikasi Playstore, 
+* Klik Hamburg Menu 
+* Pilih Play Protect. 
+* Kemudian, klik icon GEAR, dan geser toggle pada opsi "Scan device for security threats" agar mati.
+* Link cara mematikan Play Protect bisa di baca di link ini: [How to disable play protect?](https://support.mobile-tracker-free.com/hc/en-us/articles/360005346953-How-to-disable-Google-Play-Protect-)
 
 ## Hasil analysis
 **Virus Total**
