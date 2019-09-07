@@ -1,5 +1,7 @@
 # prediktortogel
 Aplikasi Android untuk melihat data paito pasaran hongkong, singapore, sydney dan juga cambodia.
 
-
-[[https://raw.githubusercontent.com/idsugardev/prediktortogel/master/01.png|width=300px]]
+<img style="width:300px;float:left;padding-right:10px;" src="https://raw.githubusercontent.com/idsugardev/prediktortogel/master/02.png"/>
+<img style="width:300px;float:left;padding-right:10px;" src="https://raw.githubusercontent.com/idsugardev/prediktortogel/master/03.png"/>
+<img style="width:300px;float:left;padding-right:10px;" src="https://raw.githubusercontent.com/idsugardev/prediktortogel/master/04.png"/>
+<img style="width:300px;float:left;padding-right:10px;" src="https://raw.githubusercontent.com/idsugardev/prediktortogel/master/01.png"/>
