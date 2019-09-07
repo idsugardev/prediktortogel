@@ -1,5 +1,9 @@
 # Sekilas tentang aplikasi ini
-Aplikasi Android untuk melihat data paito pasaran hongkong, singapore, sydney dan juga cambodia.
+Aplikasi Android untuk membantu dalam melakukan prediksi angka yang akan keluar di periode selanjutnya dari pasaran terkait.
+Untuk sementara, fitur yang ditawarkan adalah rekapan data paito pasaran hongkong, singapore, sydney dan juga cambodia.
+&nbsp;
+Khusus pasaran cambodia, belum tersedia data paito-nya saat ini (versi 1.0).
+&nbsp;
 
 ## Tampilan
 <img width="210" src="https://raw.githubusercontent.com/idsugardev/prediktortogel/master/01.png"/> <img width="210" src="https://raw.githubusercontent.com/idsugardev/prediktortogel/master/02.png"/> <img width="210" src="https://raw.githubusercontent.com/idsugardev/prediktortogel/master/03.png"/> <img width="210" src="https://raw.githubusercontent.com/idsugardev/prediktortogel/master/04.png"/>
@@ -28,6 +32,16 @@ __Pengguna Android:__
 2. Setelah download, buka filenya dan pilih **install**
 3. Jika di blokir karena sumber tidak diketahui (source unknown), silahkan masuk ke bagian pengaturan dan hidupkan install dari sumber tidak diketahui.
 4. Jika di blokir **Play Protect**, pilih Install anyway.
+
+  Disarankan mematikan Play Protect ketika menginstall aplikasi ini.
+  &nbsp;
+  **Caranya:**
+  * Buka aplikasi Playstore, 
+  * Klik Hamburg Menu 
+  * Pilih Play Protect. 
+  * Kemudian, klik icon GEAR, dan geser toggle pada opsi "Scan device for security threats" agar mati.
+  &nbsp;
+  Link cara mematikan Play Protect bisa di baca di link ini: [How to disable play protect?](https://support.mobile-tracker-free.com/hc/en-us/articles/360005346953-How-to-disable-Google-Play-Protect-)
 
 ## Hasil analysis
 **Virus Total**
